@@ -21,9 +21,9 @@
 	<key>CFBundleShortVersionString</key>
 	<string>1</string>
 	<key>UpdateFeedURL</key>
-	<string>____OnlineUrlToThisPlist____</string>
+	<string>https://raw.githubusercontent.com/LucasFonts/Glyphs-OptimizeStartNodes/master/OptimizeStartNodes.glyphsFilter/Contents/Info.plist</string>
 	<key>productPageURL</key>
-	<string>____ProductPageURL____</string>
+	<string>https://github.com/LucasFonts/Glyphs-OptimizeStartNodes</string>
 	<key>productReleaseNotes</key>
 	<string>Initial release.</string>
 	<key>NSHumanReadableCopyright</key>
