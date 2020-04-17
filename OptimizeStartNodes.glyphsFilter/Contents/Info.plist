@@ -4,8 +4,6 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
-	<key>CFBundleDisplayName</key>
-	<string>OptimizeStartNodes</string>
 	<key>CFBundleExecutable</key>
 	<string>plugin</string>
 	<key>CFBundleIdentifier</key>
@@ -14,25 +12,23 @@
 	<string>6.0</string>
 	<key>CFBundleName</key>
 	<string>OptimizeStartNodes</string>
-	<key>CFBundlePackageType</key>
-	<string>BNDL</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>2</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1</string>
+	<string>0.2.0</string>
 	<key>UpdateFeedURL</key>
 	<string>https://raw.githubusercontent.com/LucasFonts/Glyphs-OptimizeStartNodes/master/OptimizeStartNodes.glyphsFilter/Contents/Info.plist</string>
 	<key>productPageURL</key>
 	<string>https://github.com/LucasFonts/Glyphs-OptimizeStartNodes</string>
 	<key>productReleaseNotes</key>
-	<string>Initial release.</string>
+	<string>Python 3/Glyphs 3 compatibility.</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright, LucasFonts, 2019</string>
 	<key>NSPrincipalClass</key>
 	<string>OptimizeStartNodes</string>
 	<key>PyMainFileNames</key>
 	<array>
-		<string>../MacOS/main.py</string>
+		<string>plugin.py</string>
 	</array>
 </dict>
 </plist>
