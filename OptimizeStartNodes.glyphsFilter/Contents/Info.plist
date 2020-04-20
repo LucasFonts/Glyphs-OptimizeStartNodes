@@ -21,7 +21,7 @@
 	<key>productPageURL</key>
 	<string>https://github.com/LucasFonts/Glyphs-OptimizeStartNodes</string>
 	<key>productReleaseNotes</key>
-	<string>Initial release.</string>
+	<string>Python 3/Glyphs 3 compatibility.</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright, LucasFonts, 2019</string>
 	<key>NSPrincipalClass</key>
