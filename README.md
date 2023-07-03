@@ -15,11 +15,14 @@ You can also run the filter as a custom parameter, this is especially helpful as
 Just paste this code into your instance custom parameters:
 
 ```
-(
+{
+    customParameters = (
         {
-        Filter = OptimizeStartNodes;
-    }
-)
+            name = Filter;
+            value = OptimizeStartNodes;
+        }
+    );
+}
 ```
 
 N.B.: The result may not be visible when you open the exported font in Glyphs again, because Glyphs interprets the start node differently than what’s in the font.
